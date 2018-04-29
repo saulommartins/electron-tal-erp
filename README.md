@@ -9,6 +9,7 @@ Getting started
 Run in this directory:
 ```
 npm install electron --save-dev
+npm start
 
 ```
 
